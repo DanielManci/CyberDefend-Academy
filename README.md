@@ -18,6 +18,14 @@ A database-driven cybersecurity learning platform built as my university Computi
 - HTML/CSS (global stylesheet)
 - JavaScript (client-side quiz logic; CSP-safe external scripts)
 
+- ## How to Run (Local)
+1. Install XAMPP.
+2. Copy the project folder into `C:\xampp\htdocs\CyberDefend\`
+3. Start Apache and MySQL in XAMPP.
+4. Create a MySQL database called `cyberdefend`.
+5. Import the SQL schema (see `/database/` if included).
+6. Open `http://localhost/CyberDefend/` in your browser.
+
 ## Screenshots (Evidence)
 
 ### User Journey
