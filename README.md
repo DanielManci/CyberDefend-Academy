@@ -28,8 +28,6 @@ A database-driven cybersecurity learning platform built as my university Computi
 
 ## Screenshots (Evidence)
 
-## Screenshots (Evidence)
-
 ### User Journey
 ![Home - Logged out](./screenshots/Home%20-%20Logged%20out.png)
 ![Register](./screenshots/Register.png)
