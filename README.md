@@ -12,18 +12,25 @@ A database-driven cybersecurity learning platform built as my university Computi
 - Leaderboard ranking users by total score
 - Admin dashboard for content management (Insert/Update/Delete/View)
 
+- ## Security Controls (Implemented)
+- Used prepared statements for database queries to reduce SQL injection risk.
+- Enforced session-based access control for authenticated pages.
+- Implemented role-based access control (admin vs user) for the admin dashboard.
+- Applied server-side validation for key user inputs (registration/login and scoring endpoints).
+- Enabled a Content Security Policy (CSP) to restrict script execution to same-origin resources.
+
 ## Tech Stack
 - PHP
 - MySQL (phpMyAdmin)
 - HTML/CSS (global stylesheet)
 - JavaScript (client-side quiz logic; CSP-safe external scripts)
 
-- ## How to Run (Local)
+## How to Run (Local)
 1. Install XAMPP.
-2. Copy the project folder into `C:\xampp\htdocs\CyberDefend\`
+2. Copy the `CyberDefend` folder into `C:\xampp\htdocs\`
 3. Start Apache and MySQL in XAMPP.
 4. Create a MySQL database called `cyberdefend`.
-5. Import the SQL schema (see `/database/` if included).
+5. Import `database/schema.sql` into the `cyberdefend` database using phpMyAdmin.
 6. Open `http://localhost/CyberDefend/` in your browser.
 
 ## Screenshots (Evidence)
