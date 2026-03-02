@@ -28,31 +28,33 @@ A database-driven cybersecurity learning platform built as my university Computi
 
 ## Screenshots (Evidence)
 
+## Screenshots (Evidence)
+
 ### User Journey
-![Home - Logged out](screenshots/home-logged-out.png)
-![Register](screenshots/register.png)
-![Login](screenshots/login.png)
-![Home - Logged in](screenshots/home-logged-in.png)
+![Home - Logged out](./screenshots/Home%20-%20Logged%20out.png)
+![Register](./screenshots/Register.png)
+![Login](./screenshots/Login.png)
+![Home - Logged in](./screenshots/Home%20-%20Logged%20in.png)
 
 ### Learning Topics
-![Topics](screenshots/topics.png)
-![Topic content and video](screenshots/topic-content-video.png)
+![Topics](./screenshots/Topics.png)
+![Topic content and video](./screenshots/Topic%20content%20and%20video.png)
 
 ### Quizzes and Tests
-![Quiz](screenshots/quiz.png)
-![Quiz results](screenshots/quiz-results.png)
-![Test results](screenshots/test-results.png)
+![Quiz](./screenshots/Quiz.png)
+![Quiz results](./screenshots/Quiz%20results.png)
+![Test results](./screenshots/Test%20results.png)
 
 ### Progress Tracking and Leaderboard
-![Dashboard progress](screenshots/dashboard-progress.png)
-![Leaderboard](screenshots/leaderboard.png)
+![Dashboard progress](./screenshots/Dashboard%20progress.png)
+![Leaderboard](./screenshots/Leaderboard.png)
 
 ### Admin Interface
-![Admin dashboard](screenshots/admin-dashboard.png)
+![Admin dashboard](./screenshots/Admin%20dashboard.png)
 
 ### Database Proof (Persistence)
-![Database structure](screenshots/db-structure.png)
-![Scores saved](screenshots/db-user-scores.png)
+![Database structure](./screenshots/Database%20structure.png)
+![Scores saved](./screenshots/Scores%20saved.png)
 
 ## Notes
 - All usernames shown are dummy demo accounts created for demonstration purposes.
