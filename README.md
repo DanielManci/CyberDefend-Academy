@@ -32,7 +32,6 @@ A database-driven cybersecurity learning platform built as my university Computi
 4. Create a MySQL database called `cyberdefend`.
 5. Import `database/schema.sql` into the `cyberdefend` database using phpMyAdmin.
 6. Open `http://localhost/CyberDefend/` in your browser.
-
 ## Screenshots (Evidence)
 
 ### User Journey
