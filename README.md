@@ -12,7 +12,7 @@ A database-driven cybersecurity learning platform built as my university Computi
 - Leaderboard ranking users by total score
 - Admin dashboard for content management (Insert/Update/Delete/View)
 
-- ## Security Controls (Implemented)
+## Security Controls (Implemented)
 - Used prepared statements for database queries to reduce SQL injection risk.
 - Enforced session-based access control for authenticated pages.
 - Implemented role-based access control (admin vs user) for the admin dashboard.
